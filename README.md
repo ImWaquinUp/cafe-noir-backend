@@ -1,4 +1,4 @@
-# Café Noir — Reservation & Ordering Management System (Backend API)
+# Café Noir - Reservation & Ordering Management System (Backend API)
 
 RESTful backend API built with **NestJS**, **TypeORM**, and **MySQL** for Café Noir's table reservations, digital ordering, and payment processing.
 
